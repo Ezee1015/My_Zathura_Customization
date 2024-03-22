@@ -1,0 +1,9 @@
+# Invert colors (for dark mode)
+set recolor
+
+# Colors
+set default-bg '#1d2021'         # Background of the app
+set recolor-lightcolor '#282828' # Background color for the "dark mode"
+
+# Can't open links? Try this option... (https://www.youtube.com/watch?v=CdCs_sZNNPQ&t=1214s)
+# set sandbox none
