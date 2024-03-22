@@ -1,4 +1,4 @@
-# Zathura
+# My Zathura Customization
 
 My configuration for [Zathura](https://pwmt.org/projects/zathura/), a PDF viewer.
 
