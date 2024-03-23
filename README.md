@@ -24,3 +24,4 @@ make install
 | **`f`**                                                                   | Go to link in the pdf               |
 | **`:print`**                                                              | Print pdf                           |
 | **`d`**                                                                   | Toggle two pages mode               |
+| **`b`**                                                                   | Adjust to the screen                |
