@@ -3,7 +3,7 @@ REPO_CONFIG_DIR=${REPO_DIR}/config
 LOCAL_CONFIG_DIR=~/.config/zathura
 
 APT_PACKAGES=zathura
-PACMAN_PACKAGES=zathura
+PACMAN_PACKAGES=zathura zathura-pdf-poppler
 
 # Updates and install the lua files from the repository
 install:
