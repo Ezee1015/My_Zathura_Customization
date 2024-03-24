@@ -1,5 +1,6 @@
 # Invert colors (for dark mode)
 set recolor
+set page-padding 10
 
 # Can't open links? Try this option... (https://www.youtube.com/watch?v=CdCs_sZNNPQ&t=1214s)
 # set sandbox none
