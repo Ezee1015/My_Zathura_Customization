@@ -1,10 +1,6 @@
 # Invert colors (for dark mode)
 set recolor
 
-# Colors
-set default-bg '#1d2021'         # Background of the app
-set recolor-lightcolor '#282828' # Background color for the "dark mode"
-
 # Can't open links? Try this option... (https://www.youtube.com/watch?v=CdCs_sZNNPQ&t=1214s)
 # set sandbox none
 
@@ -17,3 +13,38 @@ set selection-clipboard clipboard
 
 # Fit pages to the screen
 map b adjust_window best-fit
+
+# Colors
+# (https://github.com/tallguyjenks/.dotfiles/blob/master/zathura/.config/zathura/zathurarc)
+set completion-group-bg         "#282828"
+set completion-group-fg         "#ebdbb2"
+set completion-bg               "#282828"
+set completion-fg               "#ebdbb2"
+set completion-highlight-bg     "#076678"
+set completion-highlight-fg     "#ebdbb2"
+
+set notification-error-bg       "#cc241d"
+set notification-error-fg       "#ebdbb2"
+set notification-warning-bg     "#b57614"
+set notification-warning-fg     "#ebdbb2"
+set notification-bg             "#3c3836"
+set notification-fg             "#ebdbb2"
+
+set index-bg                    "#1d2021"
+set index-fg                    "#ebdbb2"
+set index-active-bg             "#458588"
+set index-active-fg             "#ebdbb2"
+
+set inputbar-bg                 "#3c3836"
+set inputbar-fg                 "#ebdbb2"
+
+set statusbar-bg                "#1d2021"
+set statusbar-fg                "#ebdbb2"
+
+set highlight-color             "#458588"
+set highlight-active-color      "#076678"
+
+set default-fg                  "#ebdbb2"
+set default-bg                  "#1d2021" # Background of the app
+set recolor-lightcolor          "#282828" # File background
+set recolor-darkcolor           "#ebdbb2" # File text color
