@@ -15,7 +15,7 @@ make install
 | **`gg`** **`G`** **`[Numero]gg`** **`[Numero]G`** **`:[Numero] [Enter]`** | Jump between the pages              |
 | **`+`** **`-`** **`[Mouse wheel]`**                                       | Zoom in/out (**`=`** to reset zoom) |
 | **`h`** **`j`** **`k`** **`l`**                                           | Move around                         |
-| **`[Space]`**                                                             | Jump 1 page                         |
+| **`[Space]`** **`[Shift][Space]`** **`[Shift]j`** **`[Shift]k`**          | Jump by 1 page                      |
 | **`[TAB]`**                                                               | Table of content                    |
 | **`r`**                                                                   | Rotate PDF                          |
 | **`[Control] r`**                                                         | Dark-light mode toggle              |
@@ -25,3 +25,5 @@ make install
 | **`:print`**                                                              | Print pdf                           |
 | **`d`**                                                                   | Toggle two pages mode               |
 | **`b`**                                                                   | Adjust to the screen                |
+| **`a`**                                                                   | Fit to height                       |
+| **`s`**                                                                   | Fit to width                       |
