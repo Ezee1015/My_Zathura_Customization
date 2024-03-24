@@ -8,6 +8,9 @@ set recolor-lightcolor '#282828' # Background color for the "dark mode"
 # Can't open links? Try this option... (https://www.youtube.com/watch?v=CdCs_sZNNPQ&t=1214s)
 # set sandbox none
 
+# Hide all the elements of the GUI
+# set guioptions none
+
 # Set the primary clipboard as the default clipboard
 # (https://unix.stackexchange.com/questions/339487/how-to-enable-copy-to-clipboard-with-zathura-pdf-poppler)
 set selection-clipboard clipboard
