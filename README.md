@@ -15,6 +15,8 @@ make install
 | **`gg`** **`G`** **`[Numero]gg`** **`[Numero]G`** **`:[Numero] [Enter]`** | Jump between the pages                  |
 |                    **`+`** **`-`** **`[Mouse wheel]`**                    | Zoom in/out (**`=`** to reset zoom)     |
 |                      **`h`** **`j`** **`k`** **`l`**                      | Move around                             |
+|                 **`[Control][Up]`** **`[Control][Down]`**                 | Move slowly                             |
+|                       **`[Shift]j`** **`[Shift]k`**                       | Move by one page                        |
 |      **`[Space]`** **`[Shift][Space]`** **`[Shift]j`** **`[Shift]k`**     | Jump by 1 page                          |
 |                       **`[Shift]h`** **`[Shift]l`**                       | Go to the start/end of the current page |
 |                              **`[Control]r`**                             | Dark-light mode toggle                  |
